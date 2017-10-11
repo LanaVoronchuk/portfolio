@@ -1,0 +1,31 @@
+	body{
+	background-color:#f0f0f0;
+	}
+	
+	.tab-pane{
+		color:grey;
+		margin-top:150px;
+	}
+	
+	.tab-pane>h3{
+			font-family: 'Raleway', sans-serif;
+			font-size:50px;
+	}
+	
+	.tab-pane>p{
+		font-family: 'Open Sans', sans-serif;
+	}
+	
+	#menubar{
+		float:right;
+		font-family:'Open Sans', sans-serif;
+	}
+	
+	#menubar>li>a{
+		color:grey;
+		background-color:#f0f0f0;
+	}
+	
+	
+/*	font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;*/
