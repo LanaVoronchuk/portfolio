@@ -1,5 +1,6 @@
 	body{
 	background-color:#f0f0f0;
+	font-family: 'Open Sans', sans-serif;
 	}
 	
 .fa>a{
@@ -13,31 +14,24 @@
 	color:grey;
 }
 
-p{
-	font-family: 'Open Sans', sans-serif;
-}
-
-.col>p{
-	font-family: 'Open Sans', sans-serif;
-	font-size:5px;
+i{
+	font-size:10px;
 }
 
 h1, h2{
 	font-family: 'Raleway', sans-serif;
 	margin-top:10%;
 }
-
-.description{
-	font-size:12px;
-}
+	
+	.thumbnail{
+	
+	}
 	
 	#content{
 		margin-bottom:15%;
 	}
-
+	
 	.footer{
 		font-size:35px;
 		margin-top:20%;
 	}
-	
-/*	font-family: 'Raleway', sans-serif;
